@@ -21,3 +21,20 @@ body
     font-size: 20px ;
 
 }
+
+#cabecera{
+    background: #33A;
+    box-shadow: opx 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+
+}
+
+#cabecera tagline
+{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 1em 0 0 0;
+}
