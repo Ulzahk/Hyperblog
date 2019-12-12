@@ -10,7 +10,7 @@ body
 
 #container
 {
-    width: 70%;
+    width: 97%;
     padding: 1em;
     text-align: left;
     margin: 0, auto;
@@ -43,7 +43,15 @@ body
     padding: 1em 0 0 0;
 }
 
- #cabecera #logo{
+#cabecera #logo{
     width: 20px;
     vertical-align: middle;
+}
+
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
