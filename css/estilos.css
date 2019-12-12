@@ -1,9 +1,11 @@
+
 body
 {
     text-align: center;
     font-family: Arial;
-    color: #333;
+    color: black;
     font-size: 16px;
+    background-color: #333;
 }
 
 #container
@@ -11,8 +13,10 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px, solid #DDD;
     margin: 0, auto;
+    background-color: white;
+    border: black;
+    
 
 }
 
@@ -37,4 +41,9 @@ body
     font-weight: normal;
     font-size: 0.8em;
     padding: 1em 0 0 0;
+}
+
+ #cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
